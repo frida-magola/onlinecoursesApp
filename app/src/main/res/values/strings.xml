@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">StudyApplications</string>
+    <string name="title_activity_nav">Nav</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_nameerr">Invalid Name</string>
+    <string name="last_nameerr">Enter correct Name</string>
+    <string name="emailerr">Enter valid email address</string>
+    <string name="phone_numbererr">Enter correct phone number</string>
+    <string name="pass_err">Enter Password</string>
+    <string name="confirm_passworderr">passwords do not match</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_brand_navigation">App Name</string>
+    <string name="add_a_new_course">Add A New Course</string>
+    <string name="add_a_survey">Add A Survey</string>
+    <string name="statistics">Statistics</string>
+    <string name="title_activity_user_navigation">UserNavigation</string>
+
+
+    <string name="FACEBOOK_APP_ID">299903600644820</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">d038c372b6fd72df8cc0be93b827b61a</string>
+    <string name="ak_login_protocol_scheme">akd038c372b6fd72df8cc0be93b827b61a</string>
+    <string name="profile">Profile</string>
+    <string name="categories">Categories</string>
+    <string name="my_courses">My Courses</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="help">Help</string>
+
+    <string name="Open">NavBar</string>
+    <string name="Close">NavBar</string>
+    <string name="title_activity_navigation">Application Name</string>
+    <string name="title_activity_navigation_of_brand">Application Name</string>
+    <string name="title_activity_brand_reset_page">BrandResetPage</string>
+
+    <string-array name="types">
+        <item>Mobile</item>
+        <item>Office</item>
+        <item>Home</item>
+    </string-array>
+</resources>
